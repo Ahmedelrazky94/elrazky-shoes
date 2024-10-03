@@ -3,12 +3,12 @@ import bigShoe2 from './big-shoe2.png'
 import bigShoe3 from './big-shoe3.png'
 
 import customer1 from './customer1.jpeg'
-import customer2 from './customer2.svg'
+import customer2 from './customer2.png'
 
 import footerLogo from './footer-logo.png'
 import headerLogo from './header-logo.png'
 
-import offer from './offer.svg'
+import offer from './offer.png'
 
 import shoe4 from './shoe4.svg'
 import shoe5 from './shoe5.svg'

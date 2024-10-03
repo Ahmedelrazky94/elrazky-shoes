@@ -14,9 +14,9 @@ export const Customer = () => (
                         <div className="text-center flex justify-center"><img src={review.imgURL} className="rounded-full w-24 py-3" />
 
                              </div>
-                    <p className="py-3 max-w-2xl max-xl:px-4">{review.feedback}</p>
+                    <p className="py-3 max-w-2xl max-xl:px-4 font-Palanquin">{review.feedback}</p>
                     <div className="flex gap-x-3 justify-center py-5"><img src={star} />{review.rating}</div>
-                    <h2 className="text-xl text-black font-bold">{review.customerName}</h2>
+                    <h2 className="text-xl text-black font-bold font-Palanquin">{review.customerName}</h2>
                         </div>
                 ))
             }

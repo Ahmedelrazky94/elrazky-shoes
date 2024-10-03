@@ -21,7 +21,7 @@ export const Footer =() => (
             {footerLinks.map((footer)=>(
                 <div>
                     
-                    <h3 className="text-white text-xl pt-3">{footer.title}</h3>
+                    <h3 className="text-white text-xl pt-3 font-Palanquin">{footer.title}</h3>
                     <div className="flex-col py-3">
                     {footer.links.map((link)=>(
                         <a className="text-gray-300 block font-montserrat" href="#">{link.name}</a>

@@ -13,7 +13,7 @@ const ListMenu = () => (
 ) 
 export const Nav = () =>(
 <header className="w-full flex items-center	 justify-between px-12 absolute">
-    <a href="#"><img className="px-4 py-8 max-sm:px-0" src={headerLogo} /></a>
+    <a href="#"><img className="px-4 py-8 max-sm:px-0 w-48" src={headerLogo} /></a>
 
     <nav className="w-full text-center" >
         <div  className="md:block hidden">
